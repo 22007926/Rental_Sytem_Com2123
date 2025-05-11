@@ -4,7 +4,12 @@ COM2123:imperative programming
 
 
 ## Student Information
-Sikhwivhilu M 22007926
+1.Mabunda R         21007685
+2.Sikhwetha RJ      23024564
+3.Makondelela K A   23016628
+4.Sikhwivhilu M     22007926
+
+
 
 *This project is part of the **Imperative Programming** course.*
 
