@@ -1,0 +1,5 @@
+1 Lamborghini_Aventador 25000 1 P
+2 Bugatti_Chiron 30000 1 P
+3 Tesla_Model3 1800 1 E
+4 Volkswagen_Polo 850 1 P
+5 BMW_X5 2000 1 D
