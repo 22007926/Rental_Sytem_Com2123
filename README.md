@@ -4,13 +4,13 @@ COM2123:imperative programming
 
 
 ## Student Information
-1.Mabunda R         21007685
+1.Sikhwivhilu M     22007926
 
 2.Sikhwetha RJ      23024564
 
 3.Makondelela K A   23016628
 
-4.Sikhwivhilu M     22007926
+4.Mabunda R         21007685
 
 
 
